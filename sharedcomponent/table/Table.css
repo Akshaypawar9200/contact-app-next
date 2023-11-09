@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.btn-primary{
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.btn-primary1{
+    background-color:skyblue;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.btn-primary2{
+    background-color:red;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}
+.btn-primary3{
+    background-color:green;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+}
+

@@ -1,0 +1,57 @@
+.main1{
+
+    height:auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   }
+   .main-create {
+  
+    background-color:white;
+    border: 1px solid gray;
+  border-radius: 20px;
+      padding: 20px;
+    }
+   
+  .main-create form{
+   
+      display: flex;
+      margin-top: 15px;
+      flex-direction: column;
+      background-color:white;
+      border: 1px solid grey;
+      border-radius: 15px;
+  }
+    
+    .form-label {
+      font-weight: bold;
+    }
+    
+    .form-controls {
+      width: 100%;
+      padding: 10px;  
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    
+    .createButton {
+      background-color: green;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+   
+    }
+    
+    .btn:hover {
+      background-color: #0056b3;
+    }
+    .contact h1{
+      text-align: center;
+      color: crimson;
+      font-family: cursive;
+      font-weight: bold;
+    }
+     

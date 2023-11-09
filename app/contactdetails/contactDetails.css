@@ -1,0 +1,15 @@
+.main-cd{
+    display: flex;
+background-color:grey;
+padding: 10px;
+border-radius: 15px;
+margin: 10px 0px 20px 0px;   
+}
+.container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.search{
+    color: aliceblue;
+}

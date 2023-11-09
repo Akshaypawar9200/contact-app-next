@@ -1,0 +1,65 @@
+
+.navbar {
+    background-color:grey;
+    color: black; 
+    border-radius: 0; 
+    
+
+  }
+  .parts{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+  }
+  .reset{
+    margin: 5px;
+  }
+ 
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff; 
+  }
+  
+  
+  .navbar .nav-link {
+    color: #fff; 
+    font-size: 1rem; 
+    margin-right: 15px;
+  }
+  
+  
+  .navbar .nav-link.active {
+    background-color: #fff;
+    color: #333; 
+    border-radius: 5px; 
+  }
+  
+ 
+  .navbar-toggler-icon {
+    color: #fff;
+  }
+  
+
+  label[for="username"] {
+    font-size: 1rem;
+    margin: 0 10px; 
+    color: black; 
+  }
+
+  .btn-logout {
+    background-color: #dc3545; 
+    color: #fff; 
+    font-size: 1rem; 
+    border: none;
+    border-radius: 5px; 
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+ 
+  .btn-logout:hover {
+    background-color: #c82333;
+  }
+  
